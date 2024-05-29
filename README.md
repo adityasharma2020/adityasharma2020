@@ -4,7 +4,7 @@ I'm a Full-stack Web Developer, specializing in JavaScript, React, and Node.js. 
 
 ## 🌐 Socials:
 
-[![PortfolioWebsite](https://img.shields.io/badge/Portfolio_Website-%23E4405F.svg?logo=website&logoColor=white)](https://theadityasharma.netlify.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_theadityasharma_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasharma-dev) [![](https://img.shields.io/badge/Resume-8A2BE2)](https://drive.google.com/file/d/1DdD_FfybA9FvjTM8bZCYcgyGUJLFe1sX/view?usp=drive_link) 
+[![PortfolioWebsite](https://img.shields.io/badge/Portfolio_Website-%23E4405F.svg?logo=website&logoColor=white)](https://theadityasharma.netlify.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_theadityasharma_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasharma-dev) [![](https://img.shields.io/badge/Resume-8A2BE2)](https://drive.google.com/file/d/1rE-SIPMpUEWM4vFEz7fsotK1_MdY9aRb/view) 
 
 # 💻 Tech Stack:
 
